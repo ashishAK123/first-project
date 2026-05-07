@@ -1,2 +1,3 @@
 # first-project
-author - ASHISH KUMAR
+author <br>
+- ASHISH KUMAR
